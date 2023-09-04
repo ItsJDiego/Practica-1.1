@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Me voy a unir.
+=======
+Hola que hace
+>>>>>>> 7e0d4d04194e6c0b5a76af179184e4d6eda900a4
