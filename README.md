@@ -10,6 +10,6 @@ El integrante que hizo la primera sincronización, vuelva a editar el archivo qu
 
 Integrantes: 
 Didier Garcia Toquiantzi (DidierGarciaToquiantzi)
-Natali Meza Barranco ()
+Natali Meza Barranco (Nath2407)
 Karla Rivera (KarlaLima16)
 Juan Diego Espinosa Sandoval (ItsJDiego)
