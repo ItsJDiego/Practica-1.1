@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 estoy aprendiendo a usar git/github
+=======
+<<<<<<< HEAD
+Me voy a unir.
+=======
+Hola que hace
+>>>>>>> 7e0d4d04194e6c0b5a76af179184e4d6eda900a4
+>>>>>>> 7a9ef3411e3bcc5fecdb27c025755e9d402f9f55
